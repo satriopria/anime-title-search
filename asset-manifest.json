@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/anime-title-search/static/css/main.8dc11efb.chunk.css",
+    "main.js": "/anime-title-search/static/js/main.a2d26dfd.chunk.js",
+    "main.js.map": "/anime-title-search/static/js/main.a2d26dfd.chunk.js.map",
+    "runtime-main.js": "/anime-title-search/static/js/runtime-main.65d2f495.js",
+    "runtime-main.js.map": "/anime-title-search/static/js/runtime-main.65d2f495.js.map",
+    "static/js/2.8dbc00a9.chunk.js": "/anime-title-search/static/js/2.8dbc00a9.chunk.js",
+    "static/js/2.8dbc00a9.chunk.js.map": "/anime-title-search/static/js/2.8dbc00a9.chunk.js.map",
+    "static/js/3.cb616aae.chunk.js": "/anime-title-search/static/js/3.cb616aae.chunk.js",
+    "static/js/3.cb616aae.chunk.js.map": "/anime-title-search/static/js/3.cb616aae.chunk.js.map",
+    "index.html": "/anime-title-search/index.html",
+    "static/css/main.8dc11efb.chunk.css.map": "/anime-title-search/static/css/main.8dc11efb.chunk.css.map",
+    "static/js/2.8dbc00a9.chunk.js.LICENSE.txt": "/anime-title-search/static/js/2.8dbc00a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65d2f495.js",
+    "static/js/2.8dbc00a9.chunk.js",
+    "static/css/main.8dc11efb.chunk.css",
+    "static/js/main.a2d26dfd.chunk.js"
+  ]
+}
